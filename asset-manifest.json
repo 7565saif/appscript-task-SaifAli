@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appscript-task-SaifAli/static/css/main.5f1f8266.css",
+    "main.js": "/appscript-task-SaifAli/static/js/main.6ef1ece1.js",
+    "index.html": "/appscript-task-SaifAli/index.html",
+    "main.5f1f8266.css.map": "/appscript-task-SaifAli/static/css/main.5f1f8266.css.map",
+    "main.6ef1ece1.js.map": "/appscript-task-SaifAli/static/js/main.6ef1ece1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1f8266.css",
+    "static/js/main.6ef1ece1.js"
+  ]
+}
